@@ -1,4 +1,4 @@
-# Dashboard Project
+# Web Page Application Project
 
 ## Setup Instructions
 
